@@ -4,6 +4,8 @@ You can edit existing Tasks.
 You can remove one task at a time or all at once.
 
 
+This project uses local storage to store your tasks.
+
 
 
 
