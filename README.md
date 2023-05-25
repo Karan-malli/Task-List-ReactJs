@@ -1,6 +1,12 @@
 This porject allows you to create tasks for you.
-You can add new Tasks
+
+
+You can add new Tasks.
+
+
 You can edit existing Tasks.
+
+
 You can remove one task at a time or all at once.
 
 
