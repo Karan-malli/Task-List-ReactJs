@@ -1,3 +1,12 @@
+This porject allows you to create tasks for you.
+You can add new Tasks
+You can edit existing Tasks.
+You can remove one task at a time or all at once.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
