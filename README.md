@@ -1,4 +1,4 @@
-This porject allows you to create tasks for you.
+This project allows you to create tasks for you.
 
 
 You can add new Tasks.
